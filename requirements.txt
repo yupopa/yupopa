@@ -1,6 +1,6 @@
-
-fastai
-voila
-ipywidgets
+numpy
+streamlit
 torch
 torchvision
+fastai
+jupyter
